@@ -1,6 +1,6 @@
 # Structural Visualization and Functional Interpretation of BRCA1 Using PyMOL
 <p align="center">
-  <img src="PyMOL_Poster.png" width="900">
+  <img src="PyMOL_POSTER.png" width="900">
 </p>
 
 ## Overview
